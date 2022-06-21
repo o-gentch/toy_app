@@ -8,6 +8,9 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'sdoc'
+gem 'bootsnap'
+gem 'puma'
+gem "importmap-rails"
 
 group :development do
   gem 'sqlite3'
